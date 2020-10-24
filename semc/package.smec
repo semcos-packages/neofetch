@@ -1,0 +1,14 @@
+metadata:
+ - name: "neofetch"
+ - license: "MIT"
+ - description: "A command-line system information tool written in bash 3.2+"
+ - source: "https://github.com/semcos-packages/neofetch"
+ - source-git: "true"
+ - vars: "PREFIX"
+ - build-depends-on: "make"
+
+build:
+ - type: "source"
+ - version: "7.1.0"
+ - steps:
+  - step: "make install"
