@@ -4,10 +4,11 @@ Source: https://github.com/semcos-packages/neofetch
 
 Files: semc/*
 Copyright: 2020, Bobbbay Bobbayan, <abatterysingle@gmail.com>
+           Neofetch Contributors
 License: MPLv2
 
 Files: *
-Copyright: Busybox Contributors
+Copyright: Neofetch Contributors
 License: MIT
 
 License: MIT
